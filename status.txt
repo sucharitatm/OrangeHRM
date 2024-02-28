@@ -1,0 +1,7 @@
+Daily standup : 19 Feb 2024
+Project : Academic hub
+Tester : Margaret Sucharita Thota
+Planned activities for today:
+Academic Hub -Buyer Module - Issue sheet review
+Work on Assignement 1 - Selenium automation task - OrangeHRM
+Risks and Blockers : None

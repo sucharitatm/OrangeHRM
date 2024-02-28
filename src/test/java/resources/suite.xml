@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite thread-count="1" verbose="1" name="project1-Automation-OrangeHRM">
+
+     <test name="Employee page test">
+         <classes>
+             <class name="testrunner.PIMTestRunner"/>
+         </classes>
+     </test>
+
+ </suite>
